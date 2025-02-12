@@ -1,4 +1,4 @@
-
+tavily-python
 langchain-google-genai
 phidata
 chainlit
