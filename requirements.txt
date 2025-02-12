@@ -1,7 +1,4 @@
-crewai
-langchian
+
 langchain-google-genai
-langchain-community
-crewai_tools
 phidata
 chainlit
